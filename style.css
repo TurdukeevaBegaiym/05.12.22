@@ -59,3 +59,10 @@ flex: 41.6% 0 0 ;
 .col-11{
  flex: 91.6% 0  0 ;
 }
+
+.topbar {
+  background-color: white;
+  padding: 20px 15px;
+  display: flex;
+  box-shadow: 0 0 10px rgb(71, 68, 68);
+}
